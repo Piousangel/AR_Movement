@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{EFCFDA1A-A471-8554-78E7-43C330225F03}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ModelingSceneScripts/CamaraSetting.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ModelingSceneScripts/UIScript/FileManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ModelingSceneScripts/CharacterController.cs" Line="22" Column="110" />
+      <File FileName="Assets/Scripts/ModelingSceneScripts/CamaraSetting.cs" Line="55" Column="6" />
+      <File FileName="Assets/Scripts/ModelingSceneScripts/MaterialController.cs" />
+      <File FileName="Assets/Scripts/ModelingSceneScripts/UIScript/File_Viewer_Click.cs" />
+      <File FileName="Assets/Scripts/ModelingSceneScripts/CharacterChangeController.cs" />
+      <File FileName="Assets/Scripts/ModelingSceneScripts/UIScript/SliderController.cs" Line="25" Column="61" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7d4438ec-eb50-40a6-9ed9-58bbab4dc8dc" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

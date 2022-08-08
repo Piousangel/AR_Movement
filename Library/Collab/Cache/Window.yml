@@ -1,0 +1,666 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/40+ Simple Icons - Free.meta
+    - Assets/40+ Simple Icons - Free/Awards_Simple_Icons_UI.png
+    - Assets/40+ Simple Icons - Free/Awards_Simple_Icons_UI.png.meta
+    - Assets/40+ Simple Icons - Free/BulletList_Simple_Icons_UI.png
+    - Assets/40+ Simple Icons - Free/BulletList_Simple_Icons_UI.png.meta
+    - Assets/40+ Simple Icons - Free/CheckMark_Simple_Icons_UI.png
+    - Assets/40+ Simple Icons - Free/CheckMark_Simple_Icons_UI.png.meta
+    - Assets/40+ Simple Icons - Free/Cross_Simple_Icons_UI.png
+    - Assets/40+ Simple Icons - Free/Cross_Simple_Icons_UI.png.meta
+    - Assets/40+ Simple Icons - Free/DownArrowC_Simple_Icons_UI.png
+    - Assets/40+ Simple Icons - Free/DownArrowC_Simple_Icons_UI.png.meta
+    - Assets/40+ Simple Icons - Free/EyeActiveOff_Simple_Icons_UI.png
+    - Assets/40+ Simple Icons - Free/EyeActiveOff_Simple_Icons_UI.png.meta
+    - Assets/40+ Simple Icons - Free/EyeActiveOn_Simple_Icons_UI.png
+    - Assets/40+ Simple Icons - Free/EyeActiveOn_Simple_Icons_UI.png.meta
+    - Assets/40+ Simple Icons - Free/Filter_Simple_Icons_UI.png
+    - Assets/40+ Simple Icons - Free/Filter_Simple_Icons_UI.png.meta
+    - Assets/40+ Simple Icons - Free/Gamepad_Simple_Icons_UI.png
+    - Assets/40+ Simple Icons - Free/Gamepad_Simple_Icons_UI.png.meta
+    - Assets/40+ Simple Icons - Free/HeartOutLine_Simple_Icons_UI.png
+    - Assets/40+ Simple Icons - Free/HeartOutLine_Simple_Icons_UI.png.meta
+    - Assets/40+ Simple Icons - Free/Heart_Simple_Icons_UI.png
+    - Assets/40+ Simple Icons - Free/Heart_Simple_Icons_UI.png.meta
+    - Assets/40+ Simple Icons - Free/Home_Simple_Icons_UI.png
+    - Assets/40+ Simple Icons - Free/Home_Simple_Icons_UI.png.meta
+    - Assets/40+ Simple Icons - Free/LeaderBoard_Simple_Icons_UI.png
+    - Assets/40+ Simple Icons - Free/LeaderBoard_Simple_Icons_UI.png.meta
+    - Assets/40+ Simple Icons - Free/LeftArrowC_Simple_Icons_UI.png
+    - Assets/40+ Simple Icons - Free/LeftArrowC_Simple_Icons_UI.png.meta
+    - Assets/40+ Simple Icons - Free/LeftArrow_Simple_Icons_UI.png
+    - Assets/40+ Simple Icons - Free/LeftArrow_Simple_Icons_UI.png.meta
+    - Assets/40+ Simple Icons - Free/List_Simple_Icons_UI.png
+    - Assets/40+ Simple Icons - Free/List_Simple_Icons_UI.png.meta
+    - Assets/40+ Simple Icons - Free/Message_Simple_Icons_UI.png
+    - Assets/40+ Simple Icons - Free/Message_Simple_Icons_UI.png.meta
+    - Assets/40+ Simple Icons - Free/Mixer_Simple_Icons_UI.png
+    - Assets/40+ Simple Icons - Free/Mixer_Simple_Icons_UI.png.meta
+    - Assets/40+ Simple Icons - Free/MusicOff_Simple_Icons_UI.png
+    - Assets/40+ Simple Icons - Free/MusicOff_Simple_Icons_UI.png.meta
+    - Assets/40+ Simple Icons - Free/MusicOn_Simple_Icons_UI.png
+    - Assets/40+ Simple Icons - Free/MusicOn_Simple_Icons_UI.png.meta
+    - Assets/40+ Simple Icons - Free/Pause_Simple_Icons_UI.png
+    - Assets/40+ Simple Icons - Free/Pause_Simple_Icons_UI.png.meta
+    - Assets/40+ Simple Icons - Free/Purpose_Simple_Icons_UI.png
+    - Assets/40+ Simple Icons - Free/Purpose_Simple_Icons_UI.png.meta
+    - Assets/40+ Simple Icons - Free/QuestionMark_Simple_Icons_UI.png
+    - Assets/40+ Simple Icons - Free/QuestionMark_Simple_Icons_UI.png.meta
+    - Assets/40+ Simple Icons - Free/Return_Simple_Icons_UI.png
+    - Assets/40+ Simple Icons - Free/Return_Simple_Icons_UI.png.meta
+    - Assets/40+ Simple Icons - Free/RewaindBack_Simple_Icons_UI.png
+    - Assets/40+ Simple Icons - Free/RewaindBack_Simple_Icons_UI.png.meta
+    - Assets/40+ Simple Icons - Free/RewindForward_Simple_Icons_UI.png
+    - Assets/40+ Simple Icons - Free/RewindForward_Simple_Icons_UI.png.meta
+    - Assets/40+ Simple Icons - Free/RewindOneFrameForward_Simple_Icons_UI.png
+    - Assets/40+ Simple Icons - Free/RewindOneFrameForward_Simple_Icons_UI.png.meta
+    - Assets/40+ Simple Icons - Free/RewindOneFrame_Simple_Icons_UI.png
+    - Assets/40+ Simple Icons - Free/RewindOneFrame_Simple_Icons_UI.png.meta
+    - Assets/40+ Simple Icons - Free/RewindToTheBeginning_Simple_Icons_UI.png
+    - Assets/40+ Simple Icons - Free/RewindToTheBeginning_Simple_Icons_UI.png.meta
+    - Assets/40+ Simple Icons - Free/RewindToTheEnd_Simple_Icons_UI.png
+    - Assets/40+ Simple Icons - Free/RewindToTheEnd_Simple_Icons_UI.png.meta
+    - Assets/40+ Simple Icons - Free/RightArrowC_Simple_Icons_UI.png
+    - Assets/40+ Simple Icons - Free/RightArrowC_Simple_Icons_UI.png.meta
+    - Assets/40+ Simple Icons - Free/RightArrow_Simple_Icons_UI.png
+    - Assets/40+ Simple Icons - Free/RightArrow_Simple_Icons_UI.png.meta
+    - Assets/40+ Simple Icons - Free/Scale_Simple_Icons_UI.png
+    - Assets/40+ Simple Icons - Free/Scale_Simple_Icons_UI.png.meta
+    - Assets/40+ Simple Icons - Free/Scenes.meta
+    - Assets/40+ Simple Icons - Free/Scenes/Demo.unity
+    - Assets/40+ Simple Icons - Free/Scenes/Demo.unity.meta
+    - Assets/40+ Simple Icons - Free/Search_Simple_Icons_UI.png
+    - Assets/40+ Simple Icons - Free/Search_Simple_Icons_UI.png.meta
+    - Assets/40+ Simple Icons - Free/Settings_Simple_Icons_UI.png
+    - Assets/40+ Simple Icons - Free/Settings_Simple_Icons_UI.png.meta
+    - Assets/40+ Simple Icons - Free/Simple_Icons_UI_Sourse.png
+    - Assets/40+ Simple Icons - Free/Simple_Icons_UI_Sourse.png.meta
+    - Assets/40+ Simple Icons - Free/Simple_Icons_UI_Sourse.svg
+    - Assets/40+ Simple Icons - Free/Simple_Icons_UI_Sourse.svg.meta
+    - Assets/40+ Simple Icons - Free/SomeFrame_Simple_Icons_UI.png
+    - Assets/40+ Simple Icons - Free/SomeFrame_Simple_Icons_UI.png.meta
+    - Assets/40+ Simple Icons - Free/SoundOff_Simple_Icons_UI.png
+    - Assets/40+ Simple Icons - Free/SoundOff_Simple_Icons_UI.png.meta
+    - Assets/40+ Simple Icons - Free/SoundOn_Simple_Icons_UI.png
+    - Assets/40+ Simple Icons - Free/SoundOn_Simple_Icons_UI.png.meta
+    - Assets/40+ Simple Icons - Free/Stop_Simple_Icons_UI.png
+    - Assets/40+ Simple Icons - Free/Stop_Simple_Icons_UI.png.meta
+    - Assets/40+ Simple Icons - Free/Support_Simple_Icons_UI.png
+    - Assets/40+ Simple Icons - Free/Support_Simple_Icons_UI.png.meta
+    - Assets/40+ Simple Icons - Free/TrashCan_Simple_Icons_UI.png
+    - Assets/40+ Simple Icons - Free/TrashCan_Simple_Icons_UI.png.meta
+    - Assets/40+ Simple Icons - Free/TurnOff_Simple_Icons_UI.png
+    - Assets/40+ Simple Icons - Free/TurnOff_Simple_Icons_UI.png.meta
+    - Assets/40+ Simple Icons - Free/UpArrowC_Simple_Icons_UI.png
+    - Assets/40+ Simple Icons - Free/UpArrowC_Simple_Icons_UI.png.meta
+    - Assets/40+ Simple Icons - Free/Wrench_Simple_Icons_UI.png
+    - Assets/40+ Simple Icons - Free/Wrench_Simple_Icons_UI.png.meta
+    - Assets/ARTest.meta
+    - Assets/ARTest/Modeling.meta
+    - Assets/ARTest/Modeling/MOARChar.meta
+    - Assets/ARTest/Modeling/MOARChar/Textures.meta
+    - Assets/ARTest/Modeling/MOARChar/Textures/Ch_Body_Texture.psd
+    - Assets/ARTest/Modeling/MOARChar/Textures/Ch_Body_Texture.psd.meta
+    - Assets/ARTest/Modeling/MOARChar/Textures/Ch_Eye_L_Texture.png
+    - Assets/ARTest/Modeling/MOARChar/Textures/Ch_Eye_L_Texture.png.meta
+    - Assets/ARTest/Modeling/MOARChar/Textures/Ch_Eye_R_Texture.png
+    - Assets/ARTest/Modeling/MOARChar/Textures/Ch_Eye_R_Texture.png.meta
+    - Assets/Animation/Bed Animation.anim
+    - Assets/Animation/Bed Animation.anim.meta
+    - Assets/Ch_Custom_Test.meta
+    - Assets/Ch_Custom_Test/Prefab.meta
+    - Assets/Ch_Custom_Test/Prefab/Materials.meta
+    - Assets/Ch_Custom_Test/Prefab/Materials/Abokado.meta
+    - Assets/Ch_Custom_Test/Prefab/Materials/Abokado/Face_Abokado.mat
+    - Assets/Ch_Custom_Test/Prefab/Materials/Abokado/Face_Abokado.mat.meta
+    - Assets/Ch_Custom_Test/Prefab/Materials/Face.meta
+    - Assets/Ch_Custom_Test/Prefab/Materials/Face/Ch_Eyebrow_Number.jpg
+    - Assets/Ch_Custom_Test/Prefab/Materials/Face/Ch_Eyebrow_Number.jpg.meta
+    - Assets/Ch_Custom_Test/Prefab/Materials/Face/Eye_L.mat
+    - Assets/Ch_Custom_Test/Prefab/Materials/Face/Eye_L.mat.meta
+    - Assets/Ch_Custom_Test/Prefab/Materials/Face/Eye_R.mat
+    - Assets/Ch_Custom_Test/Prefab/Materials/Face/Eye_R.mat.meta
+    - Assets/Ch_Custom_Test/Prefab/Materials/Face/Mouth.mat
+    - Assets/Ch_Custom_Test/Prefab/Materials/Face/Mouth.mat.meta
+    - Assets/Ch_Custom_Test/Prefab/Materials/Face/Nose.mat
+    - Assets/Ch_Custom_Test/Prefab/Materials/Face/Nose.mat.meta
+    - Assets/Ch_Custom_Test/Prefab/Materials/Face/WhiteFace.mat
+    - Assets/Ch_Custom_Test/Prefab/Materials/Face/WhiteFace.mat.meta
+    - Assets/Ch_Custom_Test/Prefab/Materials/Hoodiee.meta
+    - Assets/Ch_Custom_Test/Prefab/Materials/Takoyaki.meta
+    - Assets/Ch_Custom_Test/Prefab/Materials/Tiger.meta
+    - Assets/ColorfulButtons.meta
+    - Assets/ColorfulButtons/Close.png
+    - Assets/ColorfulButtons/Close.png.meta
+    - Assets/ColorfulButtons/Colorful Buttons.cdr
+    - Assets/ColorfulButtons/Colorful Buttons.cdr.meta
+    - Assets/ColorfulButtons/Credits.txt
+    - Assets/ColorfulButtons/Credits.txt.meta
+    - Assets/ColorfulButtons/Divide.png
+    - Assets/ColorfulButtons/Divide.png.meta
+    - Assets/ColorfulButtons/Facebook.png
+    - Assets/ColorfulButtons/Facebook.png.meta
+    - Assets/ColorfulButtons/ForwardLeft.png
+    - Assets/ColorfulButtons/ForwardLeft.png.meta
+    - Assets/ColorfulButtons/ForwardRight.png
+    - Assets/ColorfulButtons/ForwardRight.png.meta
+    - Assets/ColorfulButtons/GamePad.png
+    - Assets/ColorfulButtons/GamePad.png.meta
+    - Assets/ColorfulButtons/Google.png
+    - Assets/ColorfulButtons/Google.png.meta
+    - Assets/ColorfulButtons/Heart.png
+    - Assets/ColorfulButtons/Heart.png.meta
+    - Assets/ColorfulButtons/Home.png
+    - Assets/ColorfulButtons/Home.png.meta
+    - Assets/ColorfulButtons/Instagram.png
+    - Assets/ColorfulButtons/Instagram.png.meta
+    - Assets/ColorfulButtons/Left.png
+    - Assets/ColorfulButtons/Left.png.meta
+    - Assets/ColorfulButtons/Menu.png
+    - Assets/ColorfulButtons/Menu.png.meta
+    - Assets/ColorfulButtons/Message.png
+    - Assets/ColorfulButtons/Message.png.meta
+    - Assets/ColorfulButtons/Minus.png
+    - Assets/ColorfulButtons/Minus.png.meta
+    - Assets/ColorfulButtons/Music.png
+    - Assets/ColorfulButtons/Music.png.meta
+    - Assets/ColorfulButtons/Pause.png
+    - Assets/ColorfulButtons/Pause.png.meta
+    - Assets/ColorfulButtons/Play.png
+    - Assets/ColorfulButtons/Play.png.meta
+    - Assets/ColorfulButtons/Plus.png
+    - Assets/ColorfulButtons/Plus.png.meta
+    - Assets/ColorfulButtons/PowerUp.png
+    - Assets/ColorfulButtons/PowerUp.png.meta
+    - Assets/ColorfulButtons/Question.png
+    - Assets/ColorfulButtons/Question.png.meta
+    - Assets/ColorfulButtons/Retry.png
+    - Assets/ColorfulButtons/Retry.png.meta
+    - Assets/ColorfulButtons/Right.png
+    - Assets/ColorfulButtons/Right.png.meta
+    - Assets/ColorfulButtons/Settings.png
+    - Assets/ColorfulButtons/Settings.png.meta
+    - Assets/ColorfulButtons/Share.png
+    - Assets/ColorfulButtons/Share.png.meta
+    - Assets/ColorfulButtons/Shop.png
+    - Assets/ColorfulButtons/Shop.png.meta
+    - Assets/ColorfulButtons/SoundOff.png
+    - Assets/ColorfulButtons/SoundOff.png.meta
+    - Assets/ColorfulButtons/SoundOn.png
+    - Assets/ColorfulButtons/SoundOn.png.meta
+    - Assets/ColorfulButtons/Trash.png
+    - Assets/ColorfulButtons/Trash.png.meta
+    - Assets/ColorfulButtons/Trophy.png
+    - Assets/ColorfulButtons/Trophy.png.meta
+    - Assets/Ground materials FD.meta
+    - Assets/Ground materials FD/Example.meta
+    - Assets/Ground materials FD/Example/Example.unity
+    - Assets/Ground materials FD/Example/Example.unity.meta
+    - Assets/Ground materials FD/Example/ExampleSettings.lighting
+    - Assets/Ground materials FD/Example/ExampleSettings.lighting.meta
+    - Assets/Ground materials FD/Example/New Terrain.asset
+    - Assets/Ground materials FD/Example/New Terrain.asset.meta
+    - Assets/Ground materials FD/Example/Preview.unity
+    - Assets/Ground materials FD/Example/Preview.unity.meta
+    - Assets/Ground materials FD/Example/PreviewSettings.lighting
+    - Assets/Ground materials FD/Example/PreviewSettings.lighting.meta
+    - Assets/Ground materials FD/Information package.txt
+    - Assets/Ground materials FD/Information package.txt.meta
+    - Assets/Ground materials FD/Materials.meta
+    - Assets/Ground materials FD/Terrain Layer.meta
+    - Assets/Ground materials FD/Terrain Layer/layer_Grass FD 1.terrainlayer
+    - Assets/Ground materials FD/Terrain Layer/layer_Grass FD 1.terrainlayer.meta
+    - Assets/Ground materials FD/Terrain Layer/layer_Grass FD 2.terrainlayer
+    - Assets/Ground materials FD/Terrain Layer/layer_Grass FD 2.terrainlayer.meta
+    - Assets/Ground materials FD/Terrain Layer/layer_Grass FD 3.terrainlayer
+    - Assets/Ground materials FD/Terrain Layer/layer_Grass FD 3.terrainlayer.meta
+    - Assets/Ground materials FD/Terrain Layer/layer_Grass FD 4.terrainlayer
+    - Assets/Ground materials FD/Terrain Layer/layer_Grass FD 4.terrainlayer.meta
+    - Assets/Ground materials FD/Terrain Layer/layer_Sand FD 1.terrainlayer
+    - Assets/Ground materials FD/Terrain Layer/layer_Sand FD 1.terrainlayer.meta
+    - Assets/Ground materials FD/Terrain Layer/layer_Sand FD 2.terrainlayer
+    - Assets/Ground materials FD/Terrain Layer/layer_Sand FD 2.terrainlayer.meta
+    - Assets/Ground materials FD/Terrain Layer/layer_Sand FD 3.terrainlayer
+    - Assets/Ground materials FD/Terrain Layer/layer_Sand FD 3.terrainlayer.meta
+    - Assets/Ground materials FD/Terrain Layer/layer_Sand FD 4.terrainlayer
+    - Assets/Ground materials FD/Terrain Layer/layer_Sand FD 4.terrainlayer.meta
+    - Assets/Ground materials FD/Textures.meta
+    - Assets/Ground materials FD/Textures/Grass FD 1 n.png
+    - Assets/Ground materials FD/Textures/Grass FD 1 n.png.meta
+    - Assets/Ground materials FD/Textures/Grass FD 1.png
+    - Assets/Ground materials FD/Textures/Grass FD 1.png.meta
+    - Assets/Ground materials FD/Textures/Grass FD 2 n.png
+    - Assets/Ground materials FD/Textures/Grass FD 2 n.png.meta
+    - Assets/Ground materials FD/Textures/Grass FD 2.png
+    - Assets/Ground materials FD/Textures/Grass FD 2.png.meta
+    - Assets/Ground materials FD/Textures/Grass FD 3 n.png
+    - Assets/Ground materials FD/Textures/Grass FD 3 n.png.meta
+    - Assets/Ground materials FD/Textures/Grass FD 3.png
+    - Assets/Ground materials FD/Textures/Grass FD 3.png.meta
+    - Assets/Ground materials FD/Textures/Grass FD 4 n.png
+    - Assets/Ground materials FD/Textures/Grass FD 4 n.png.meta
+    - Assets/Ground materials FD/Textures/Grass FD 4.png
+    - Assets/Ground materials FD/Textures/Grass FD 4.png.meta
+    - Assets/Ground materials FD/Textures/Sand FD 1 n.png
+    - Assets/Ground materials FD/Textures/Sand FD 1 n.png.meta
+    - Assets/Ground materials FD/Textures/Sand FD 1.png
+    - Assets/Ground materials FD/Textures/Sand FD 1.png.meta
+    - Assets/Ground materials FD/Textures/Sand FD 2 n.png
+    - Assets/Ground materials FD/Textures/Sand FD 2 n.png.meta
+    - Assets/Ground materials FD/Textures/Sand FD 2.png
+    - Assets/Ground materials FD/Textures/Sand FD 2.png.meta
+    - Assets/Ground materials FD/Textures/Sand FD 3 n.png
+    - Assets/Ground materials FD/Textures/Sand FD 3 n.png.meta
+    - Assets/Ground materials FD/Textures/Sand FD 3.png
+    - Assets/Ground materials FD/Textures/Sand FD 3.png.meta
+    - Assets/Ground materials FD/Textures/Sand FD 4 n.png
+    - Assets/Ground materials FD/Textures/Sand FD 4 n.png.meta
+    - Assets/Ground materials FD/Textures/Sand FD 4.png
+    - Assets/Ground materials FD/Textures/Sand FD 4.png.meta
+    - Assets/Images.meta
+    - Assets/Images/folder.png
+    - Assets/Images/folder.png.meta
+    - Assets/Images/piano.png
+    - Assets/Images/piano.png.meta
+    - Assets/JMO Assets.meta
+    - Assets/JMO Assets/Toony Colors Pro.meta
+    - Assets/JMO Assets/Toony Colors Pro/Ch46_nonPBR@Standing Idle-2.fbx
+    - Assets/JMO Assets/Toony Colors Pro/Ch46_nonPBR@Standing Idle-2.fbx.meta
+    - Assets/JMO Assets/Toony Colors Pro/Ch_WalkFront_Animation.fbx
+    - Assets/JMO Assets/Toony Colors Pro/Ch_WalkFront_Animation.fbx.meta
+    - Assets/JMO Assets/Toony Colors Pro/Ch_idleDefault_Animation.fbx
+    - Assets/JMO Assets/Toony Colors Pro/Ch_idleDefault_Animation.fbx.meta
+    - Assets/JMO Assets/Toony Colors Pro/Emotion.meta
+    - Assets/JMO Assets/Toony Colors Pro/MoarAnimatorController.controller
+    - Assets/JMO Assets/Toony Colors Pro/MoarAnimatorController.controller.meta
+    - Assets/JMO Assets/Toony Colors Pro/Shaders 2.0.meta
+    - Assets/JMO Assets/Toony Colors Pro/Shaders 2.0/Include.meta
+    - Assets/JMO Assets/Toony Colors Pro/Shaders 2.0/Include/TCP2_Include.cginc
+    - Assets/JMO Assets/Toony Colors Pro/Shaders 2.0/Include/TCP2_Include.cginc.meta
+    - Assets/JMO Assets/Toony Colors Pro/Shaders 2.0/TCP2_Mobile.shader
+    - Assets/JMO Assets/Toony Colors Pro/Shaders 2.0/TCP2_Mobile.shader.meta
+    - Assets/JMO Assets/Toony Colors Pro/Shaders 2.0/Variants Base.meta
+    - Assets/JMO Assets/Toony Colors Pro/Shaders 2.0/Variants Base/TCP2_Mobile_Outline.shader
+    - Assets/JMO Assets/Toony Colors Pro/Shaders 2.0/Variants Base/TCP2_Mobile_Outline.shader.meta
+    - Assets/JMO Assets/Toony Colors Pro/Shaders 2.0/Variants Base/TCP2_Mobile_OutlineBlending.shader
+    - Assets/JMO Assets/Toony Colors Pro/Shaders 2.0/Variants Base/TCP2_Mobile_OutlineBlending.shader.meta
+    - Assets/JMO Assets/Toony Colors Pro/Textures.meta
+    - Assets/JMO Assets/Toony Colors Pro/Textures/TCP2_Ramp_Unity.png
+    - Assets/JMO Assets/Toony Colors Pro/Textures/TCP2_Ramp_Unity.png.meta
+    - Assets/JMO Assets/Toony Colors Pro/Textures/TCP2_Ramp_UnityGradient.png
+    - Assets/JMO Assets/Toony Colors Pro/Textures/TCP2_Ramp_UnityGradient.png.meta
+    - Assets/MOARoomTest.meta
+    - Assets/MOARoomTest/Character.meta
+    - Assets/MOARoomTest/Character/Models.meta
+    - Assets/MOARoomTest/Character/Models/Abokado.fbx
+    - Assets/MOARoomTest/Character/Models/Abokado.fbx.meta
+    - Assets/MOARoomTest/Character/Models/Ch_Pose_Takoyaki.fbm.meta
+    - Assets/MOARoomTest/Character/Models/Ch_Pose_Takoyaki.fbm/Ch_Body_Ch_Body_M_AlbedoTransparency.png
+    - Assets/MOARoomTest/Character/Models/Ch_Pose_Takoyaki.fbm/Ch_Body_Ch_Body_M_AlbedoTransparency.png.meta
+    - Assets/MOARoomTest/Character/Models/Ch_Pose_Takoyaki.fbm/Ch_Head_Takoyaki_AlbedoTransparency.png
+    - Assets/MOARoomTest/Character/Models/Ch_Pose_Takoyaki.fbm/Ch_Head_Takoyaki_AlbedoTransparency.png.meta
+    - Assets/MOARoomTest/Character/Models/Ch_Pose_Takoyaki.fbx
+    - Assets/MOARoomTest/Character/Models/Ch_Pose_Takoyaki.fbx.meta
+    - Assets/MOARoomTest/Character/Models/Ch_Rigging.fbx
+    - Assets/MOARoomTest/Character/Models/Ch_Rigging.fbx.meta
+    - Assets/MOARoomTest/Character/Models/Ch_Tiger.fbx
+    - Assets/MOARoomTest/Character/Models/Ch_Tiger.fbx.meta
+    - Assets/MOARoomTest/Character/Models/Materials.meta
+    - Assets/MOARoomTest/Character/Models/Materials/Ch_Body_Ch_Body_M_AlbedoTransparency.mat
+    - Assets/MOARoomTest/Character/Models/Materials/Ch_Body_Ch_Body_M_AlbedoTransparency.mat.meta
+    - Assets/MOARoomTest/Character/Models/Materials/EyeL_iris_Texture.mat
+    - Assets/MOARoomTest/Character/Models/Materials/EyeL_iris_Texture.mat.meta
+    - Assets/MOARoomTest/Character/Models/Materials/EyeR_iris_Texture.mat
+    - Assets/MOARoomTest/Character/Models/Materials/EyeR_iris_Texture.mat.meta
+    - Assets/MOARoomTest/Character/Models/Materials/Mouth_T.mat
+    - Assets/MOARoomTest/Character/Models/Materials/Mouth_T.mat.meta
+    - Assets/MOARoomTest/Character/Models/Materials/aiStandardSurface2.mat
+    - Assets/MOARoomTest/Character/Models/Materials/aiStandardSurface2.mat.meta
+    - Assets/MOARoomTest/Character/Models/newHoodiePose.fbx
+    - Assets/MOARoomTest/Character/Models/newHoodiePose.fbx.meta
+    - Assets/MOARoomTest/Character/Textures.meta
+    - Assets/MOARoomTest/Character/Textures/Abokado.meta
+    - Assets/MOARoomTest/Character/Textures/Abokado/Ch_Body_Abokado_Texture.png
+    - Assets/MOARoomTest/Character/Textures/Abokado/Ch_Body_Abokado_Texture.png.meta
+    - Assets/MOARoomTest/Character/Textures/Character_abocado_aiStandardSurface1_AlbedoTransparency.png
+    - Assets/MOARoomTest/Character/Textures/Character_abocado_aiStandardSurface1_AlbedoTransparency.png.meta
+    - Assets/MOARoomTest/Character/Textures/Head.meta
+    - Assets/MOARoomTest/Character/Textures/Head/Ch_Mouth_Texture.psd
+    - Assets/MOARoomTest/Character/Textures/Head/Ch_Mouth_Texture.psd.meta
+    - Assets/MOARoomTest/Character/Textures/Head/EyeL_iris_Texture.psd
+    - Assets/MOARoomTest/Character/Textures/Head/EyeL_iris_Texture.psd.meta
+    - Assets/MOARoomTest/Character/Textures/Head/EyeR_iris_Texture.psd
+    - Assets/MOARoomTest/Character/Textures/Head/EyeR_iris_Texture.psd.meta
+    - Assets/MOARoomTest/Character/Textures/Head_Abokado.png
+    - Assets/MOARoomTest/Character/Textures/Head_Abokado.png.meta
+    - Assets/MOARoomTest/Character/Textures/Hoodiee.meta
+    - Assets/MOARoomTest/Character/Textures/Hoodiee/Ch_Body_HoodSpecularSmoothness.png
+    - Assets/MOARoomTest/Character/Textures/Hoodiee/Ch_Body_HoodSpecularSmoothness.png.meta
+    - Assets/MOARoomTest/Character/Textures/Hoodiee/Ch_Body_Hood_AlbedoTransparency.png
+    - Assets/MOARoomTest/Character/Textures/Hoodiee/Ch_Body_Hood_AlbedoTransparency.png.meta
+    - Assets/MOARoomTest/Character/Textures/Hoodiee/Ch_Body_Hood_Normal.png
+    - Assets/MOARoomTest/Character/Textures/Hoodiee/Ch_Body_Hood_Normal.png.meta
+    - Assets/MOARoomTest/Character/Textures/Hoodiee/Ch_Head_Hood_AlbedoTransparency.png
+    - Assets/MOARoomTest/Character/Textures/Hoodiee/Ch_Head_Hood_AlbedoTransparency.png.meta
+    - Assets/MOARoomTest/Character/Textures/Hoodiee/Ch_Head_Hood_Normal.png
+    - Assets/MOARoomTest/Character/Textures/Hoodiee/Ch_Head_Hood_Normal.png.meta
+    - Assets/MOARoomTest/Character/Textures/Hoodiee/Ch_Head_Hood__SpecularSmoothness.png
+    - Assets/MOARoomTest/Character/Textures/Hoodiee/Ch_Head_Hood__SpecularSmoothness.png.meta
+    - Assets/MOARoomTest/Character/Textures/Takoyaki.meta
+    - Assets/MOARoomTest/Character/Textures/Takoyaki/Ch_Body_Takoyaki_AlbedoTransparency.png
+    - Assets/MOARoomTest/Character/Textures/Takoyaki/Ch_Body_Takoyaki_AlbedoTransparency.png.meta
+    - Assets/MOARoomTest/Character/Textures/Takoyaki/Ch_Body_Takoyaki_Normal.png
+    - Assets/MOARoomTest/Character/Textures/Takoyaki/Ch_Body_Takoyaki_Normal.png.meta
+    - Assets/MOARoomTest/Character/Textures/Takoyaki/Ch_Body_Takoyaki_SpecularSmoothness.png
+    - Assets/MOARoomTest/Character/Textures/Takoyaki/Ch_Body_Takoyaki_SpecularSmoothness.png.meta
+    - Assets/MOARoomTest/Character/Textures/Takoyaki/Ch_Head_Takoyaki_AlbedoTransparency.png
+    - Assets/MOARoomTest/Character/Textures/Takoyaki/Ch_Head_Takoyaki_AlbedoTransparency.png.meta
+    - Assets/MOARoomTest/Character/Textures/Takoyaki/Ch_Head_Takoyaki_Normal.png
+    - Assets/MOARoomTest/Character/Textures/Takoyaki/Ch_Head_Takoyaki_Normal.png.meta
+    - Assets/MOARoomTest/Character/Textures/Takoyaki/Ch_Head_Takoyaki_SpecularSmoothness.png
+    - Assets/MOARoomTest/Character/Textures/Takoyaki/Ch_Head_Takoyaki_SpecularSmoothness.png.meta
+    - Assets/MOARoomTest/Character/Textures/Tiger.meta
+    - Assets/MOARoomTest/Character/Textures/Tiger/Ch_Head_Tiger_Texture.jpg
+    - Assets/MOARoomTest/Character/Textures/Tiger/Ch_Head_Tiger_Texture.jpg.meta
+    - Assets/MOARoomTest/Character/Textures/Tiger/Ch_body_Tiger_AlbedoTransparency.png
+    - Assets/MOARoomTest/Character/Textures/Tiger/Ch_body_Tiger_AlbedoTransparency.png.meta
+    - Assets/MOARoomTest/Character/Textures/Tiger/Ch_body_Tiger_Normal.png
+    - Assets/MOARoomTest/Character/Textures/Tiger/Ch_body_Tiger_Normal.png.meta
+    - Assets/MOARoomTest/Character/Textures/Tiger/Ch_body_Tiger_SpecularSmoothness.png
+    - Assets/MOARoomTest/Character/Textures/Tiger/Ch_body_Tiger_SpecularSmoothness.png.meta
+    - Assets/Prefabs/BackBtn.prefab
+    - Assets/Prefabs/BackBtn.prefab.meta
+    - Assets/Prefabs/CamaraRotate.prefab
+    - Assets/Prefabs/CamaraRotate.prefab.meta
+    - Assets/Prefabs/File_Viewer_BMS.prefab
+    - Assets/Prefabs/File_Viewer_BMS.prefab.meta
+    - Assets/Prefabs/File_Viewer_Folder.prefab
+    - Assets/Prefabs/File_Viewer_Folder.prefab.meta
+    - Assets/Prefabs/Moar.fbx
+    - Assets/Prefabs/Moar.fbx.meta
+    - Assets/Prefabs/ModelingSelect.prefab
+    - Assets/Prefabs/ModelingSelect.prefab.meta
+    - Assets/Resources.meta
+    - Assets/Resources/Ch_WalkFront_Animation.fbx
+    - Assets/Resources/Ch_WalkFront_Animation.fbx.meta
+    - Assets/Resources/Ch_idleHead1_Animation-2.fbx
+    - Assets/Resources/Ch_idleHead1_Animation-2.fbx.meta
+    - Assets/Resources/Ch_turnRight_Animation.fbx
+    - Assets/Resources/Ch_turnRight_Animation.fbx.meta
+    - Assets/Resources/RealRed.mat
+    - Assets/Resources/RealRed.mat.meta
+    - Assets/Resources/TestAnimator.controller
+    - Assets/Resources/TestAnimator.controller.meta
+    - Assets/Robot Kyle.meta
+    - Assets/Robot Kyle/Materials.meta
+    - Assets/Robot Kyle/Materials/Robot_Color.mat
+    - Assets/Robot Kyle/Materials/Robot_Color.mat.meta
+    - Assets/Robot Kyle/Model.meta
+    - Assets/Robot Kyle/Model/Robot Kyle.fbx
+    - Assets/Robot Kyle/Model/Robot Kyle.fbx.meta
+    - Assets/Robot Kyle/Motion.meta
+    - Assets/Robot Kyle/Motion/Ch46_nonPBR@Running.fbx
+    - Assets/Robot Kyle/Motion/Ch46_nonPBR@Running.fbx.meta
+    - Assets/Robot Kyle/Motion/Ch46_nonPBR@Standard Walk.fbx
+    - Assets/Robot Kyle/Motion/Ch46_nonPBR@Standard Walk.fbx.meta
+    - Assets/Robot Kyle/Textures.meta
+    - Assets/Robot Kyle/Textures/Robot_Color.tga
+    - Assets/Robot Kyle/Textures/Robot_Color.tga.meta
+    - Assets/Robot Kyle/Textures/Robot_Normal.tga
+    - Assets/Robot Kyle/Textures/Robot_Normal.tga.meta
+    - Assets/Scenes/AngleScene.unity
+    - Assets/Scenes/AngleScene.unity.meta
+    - Assets/Scenes/SampleCameraScene.unity
+    - Assets/Scenes/SampleCameraScene.unity.meta
+    - Assets/Scenes/SampleModelingScene.scenetemplate
+    - Assets/Scenes/SampleModelingScene.scenetemplate.meta
+    - Assets/Scenes/SampleModelingScene.unity
+    - Assets/Scenes/SampleModelingScene.unity.meta
+    - Assets/Scripts/AI_chase.cs
+    - Assets/Scripts/AI_chase.cs.meta
+    - Assets/Scripts/Action.cs
+    - Assets/Scripts/Action.cs.meta
+    - Assets/Scripts/AngleSceneScript.meta
+    - Assets/Scripts/AngleSceneScript/NewBehaviourScript.cs
+    - Assets/Scripts/AngleSceneScript/NewBehaviourScript.cs.meta
+    - Assets/Scripts/ChairMoved.cs
+    - Assets/Scripts/ChairMoved.cs.meta
+    - Assets/Scripts/FurnitureManager.cs
+    - Assets/Scripts/FurnitureManager.cs.meta
+    - Assets/Scripts/MapManager.cs
+    - Assets/Scripts/MapManager.cs.meta
+    - Assets/Scripts/ModelingSceneScripts.meta
+    - Assets/Scripts/ModelingSceneScripts/CamaraSetting.cs
+    - Assets/Scripts/ModelingSceneScripts/CamaraSetting.cs.meta
+    - Assets/Scripts/ModelingSceneScripts/CharacterChangeController.cs
+    - Assets/Scripts/ModelingSceneScripts/CharacterChangeController.cs.meta
+    - Assets/Scripts/ModelingSceneScripts/CharacterController.cs
+    - Assets/Scripts/ModelingSceneScripts/CharacterController.cs.meta
+    - Assets/Scripts/ModelingSceneScripts/MaterialController.cs
+    - Assets/Scripts/ModelingSceneScripts/MaterialController.cs.meta
+    - Assets/Scripts/ModelingSceneScripts/MaterialSelect.cs
+    - Assets/Scripts/ModelingSceneScripts/MaterialSelect.cs.meta
+    - Assets/Scripts/ModelingSceneScripts/ModelController.cs
+    - Assets/Scripts/ModelingSceneScripts/ModelController.cs.meta
+    - Assets/Scripts/ModelingSceneScripts/RandomCubeController.cs
+    - Assets/Scripts/ModelingSceneScripts/RandomCubeController.cs.meta
+    - Assets/Scripts/ModelingSceneScripts/SampleSetting.cs
+    - Assets/Scripts/ModelingSceneScripts/SampleSetting.cs.meta
+    - Assets/Scripts/ModelingSceneScripts/SampleSettings.cs
+    - Assets/Scripts/ModelingSceneScripts/SampleSettings.cs.meta
+    - Assets/Scripts/ModelingSceneScripts/UIScript.meta
+    - Assets/Scripts/ModelingSceneScripts/UIScript/BackButton.cs
+    - Assets/Scripts/ModelingSceneScripts/UIScript/BackButton.cs.meta
+    - Assets/Scripts/ModelingSceneScripts/UIScript/EmotionController.cs
+    - Assets/Scripts/ModelingSceneScripts/UIScript/EmotionController.cs.meta
+    - Assets/Scripts/ModelingSceneScripts/UIScript/FileManager.cs
+    - Assets/Scripts/ModelingSceneScripts/UIScript/FileManager.cs.meta
+    - Assets/Scripts/ModelingSceneScripts/UIScript/File_Viewer_Click.cs
+    - Assets/Scripts/ModelingSceneScripts/UIScript/File_Viewer_Click.cs.meta
+    - Assets/Scripts/ModelingSceneScripts/UIScript/IconController.cs
+    - Assets/Scripts/ModelingSceneScripts/UIScript/IconController.cs.meta
+    - Assets/Scripts/ModelingSceneScripts/UIScript/SliderController.cs
+    - Assets/Scripts/ModelingSceneScripts/UIScript/SliderController.cs.meta
+    - Assets/Scripts/ObjectBehavior.cs
+    - Assets/Scripts/ObjectBehavior.cs.meta
+    - Assets/Scripts/PlayerEvent.cs
+    - Assets/Scripts/PlayerEvent.cs.meta
+    - Assets/Scripts/PlayerMovement.cs
+    - Assets/Scripts/PlayerMovement.cs.meta
+    - Assets/Scripts/TriggerCheck.cs
+    - Assets/Scripts/TriggerCheck.cs.meta
+    - Assets/SettingUI.anim
+    - Assets/SettingUI.anim.meta
+    - Assets/Settingin.controller
+    - Assets/Settingin.controller.meta
+    - Assets/TestScene.unity
+    - Assets/TextMesh Pro.meta
+    - Assets/TextMesh Pro/Documentation.meta
+    - Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf
+    - Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf.meta
+    - Assets/TextMesh Pro/Fonts.meta
+    - Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt
+    - Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt.meta
+    - Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+    - Assets/TextMesh Pro/Fonts/LiberationSans.ttf.meta
+    - Assets/TextMesh Pro/Resources.meta
+    - Assets/TextMesh Pro/Resources/Fonts & Materials.meta
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat.meta
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset.meta
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat.meta
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset.meta
+    - Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt
+    - Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt.meta
+    - Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt
+    - Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt.meta
+    - Assets/TextMesh Pro/Resources/Sprite Assets.meta
+    - Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset
+    - Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset.meta
+    - Assets/TextMesh Pro/Resources/Style Sheets.meta
+    - Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset
+    - Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset.meta
+    - Assets/TextMesh Pro/Resources/TMP Settings.asset
+    - Assets/TextMesh Pro/Resources/TMP Settings.asset.meta
+    - Assets/TextMesh Pro/Shaders.meta
+    - Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader
+    - Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader
+    - Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader
+    - Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader
+    - Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader
+    - Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF.shader
+    - Assets/TextMesh Pro/Shaders/TMP_SDF.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_Sprite.shader
+    - Assets/TextMesh Pro/Shaders/TMP_Sprite.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMPro.cginc
+    - Assets/TextMesh Pro/Shaders/TMPro.cginc.meta
+    - Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc
+    - Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc.meta
+    - Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc
+    - Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc.meta
+    - Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc
+    - Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc.meta
+    - Assets/TextMesh Pro/Sprites.meta
+    - Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt
+    - Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt.meta
+    - Assets/TextMesh Pro/Sprites/EmojiOne.json
+    - Assets/TextMesh Pro/Sprites/EmojiOne.json.meta
+    - Assets/TextMesh Pro/Sprites/EmojiOne.png
+    - Assets/TextMesh Pro/Sprites/EmojiOne.png.meta
+    - Assets/UISetting.meta
+    - Assets/UISetting/Animation.meta
+    - Assets/UISetting/Animation/PlayMode.meta
+    - Assets/UISetting/Animation/PlayMode/New Folder.meta
+    - Assets/UISetting/Animation/SampleAnimation.meta
+    - Assets/UISetting/Animation/SampleAnimation/Avatar.controller
+    - Assets/UISetting/Animation/SampleAnimation/Avatar.controller.meta
+    - Assets/UISetting/Animation/SampleAnimation/EmotionAnimator.anim
+    - Assets/UISetting/Animation/SampleAnimation/EmotionAnimator.anim.meta
+    - Assets/UISetting/Animation/SampleAnimation/EmtionSelect.controller
+    - Assets/UISetting/Animation/SampleAnimation/EmtionSelect.controller.meta
+    - Assets/UISetting/Animation/SampleAnimation/KyleSampleAnimator.controller
+    - Assets/UISetting/Animation/SampleAnimation/KyleSampleAnimator.controller.meta
+    - Assets/UISetting/Animation/SampleAnimation/Robot Kyle@Jumping.fbx
+    - Assets/UISetting/Animation/SampleAnimation/Robot Kyle@Jumping.fbx.meta
+    - Assets/UISetting/Animation/SampleAnimation/Robot Kyle@Running.fbx
+    - Assets/UISetting/Animation/SampleAnimation/Robot Kyle@Running.fbx.meta
+    - Assets/UISetting/Animation/SampleAnimation/Robot Kyle@Sad Idle.fbx
+    - Assets/UISetting/Animation/SampleAnimation/Robot Kyle@Sad Idle.fbx.meta
+    - Assets/UISetting/Animation/SampleAnimation/Robot Kyle@Sitting.fbx
+    - Assets/UISetting/Animation/SampleAnimation/Robot Kyle@Sitting.fbx.meta
+    - Assets/UISetting/Animation/SampleAnimation/Robot Kyle@Standing Idle.fbx
+    - Assets/UISetting/Animation/SampleAnimation/Robot Kyle@Standing Idle.fbx.meta
+    - Assets/UISetting/Animation/SampleAnimation/Robot Kyle@Walking.fbx
+    - Assets/UISetting/Animation/SampleAnimation/Robot Kyle@Walking.fbx.meta
+    - Assets/UISetting/Modeling.meta
+    - Assets/UISetting/Modeling/Background.meta
+    - Assets/UISetting/Modeling/Background/Back.meta
+    - Assets/UISetting/Modeling/Background/Back/GroundGrass3.mat
+    - Assets/UISetting/Modeling/Background/Back/GroundGrass3.mat.meta
+    - Assets/UISetting/Modeling/Background/Back/GroundGrass4.mat
+    - Assets/UISetting/Modeling/Background/Back/GroundGrass4.mat.meta
+    - Assets/UISetting/Modeling/Background/Back/GroundGrass5.mat
+    - Assets/UISetting/Modeling/Background/Back/GroundGrass5.mat.meta
+    - Assets/UISetting/Modeling/Background/Back/GroundGrass6.mat
+    - Assets/UISetting/Modeling/Background/Back/GroundGrass6.mat.meta
+    - Assets/UISetting/Modeling/Background/Back/GroundGrass7.mat
+    - Assets/UISetting/Modeling/Background/Back/GroundGrass7.mat.meta
+    - Assets/UISetting/Modeling/Background/Back/GroundGrass8.mat
+    - Assets/UISetting/Modeling/Background/Back/GroundGrass8.mat.meta
+    - Assets/UISetting/Modeling/Background/Back/GroundSand1.mat
+    - Assets/UISetting/Modeling/Background/Back/GroundSand1.mat.meta
+    - Assets/UISetting/Modeling/Background/Back/GroundSand2.mat
+    - Assets/UISetting/Modeling/Background/Back/GroundSand2.mat.meta
+    - Assets/UISetting/Modeling/Background/Back/GroundSand3.mat
+    - Assets/UISetting/Modeling/Background/Back/GroundSand3.mat.meta
+    - Assets/UISetting/Modeling/Background/Back/GroundSand4.mat
+    - Assets/UISetting/Modeling/Background/Back/GroundSand4.mat.meta
+    - Assets/UISetting/Modeling/Background/GroundGrass1.mat
+    - Assets/UISetting/Modeling/Background/GroundGrass1.mat.meta
+    - Assets/UISetting/Modeling/Background/GroundGrass2.mat
+    - Assets/UISetting/Modeling/Background/GroundGrass2.mat.meta
+    - Assets/UISetting/Modeling/Background/GroundSand5.mat
+    - Assets/UISetting/Modeling/Background/GroundSand5.mat.meta
+    - Assets/UISetting/Modeling/Background/GroundSand6.mat
+    - Assets/UISetting/Modeling/Background/GroundSand6.mat.meta
+    - Assets/UISetting/Modeling/Background/GroundSand7.mat
+    - Assets/UISetting/Modeling/Background/GroundSand7.mat.meta
+    - Assets/UISetting/Modeling/Background/GroundSand8.mat
+    - Assets/UISetting/Modeling/Background/GroundSand8.mat.meta
+    - Assets/UISetting/Modeling/Character.meta
+    - Assets/UISetting/Modeling/Character/MoarAbokado.prefab
+    - Assets/UISetting/Modeling/Character/MoarAbokado.prefab.meta
+    - Assets/UISetting/Modeling/Character/MoarHood.prefab
+    - Assets/UISetting/Modeling/Character/MoarHood.prefab.meta
+    - Assets/UISetting/Modeling/Character/MoarTakoyaki.prefab
+    - Assets/UISetting/Modeling/Character/MoarTakoyaki.prefab.meta
+    - Assets/UISetting/Modeling/Character/MoarTiger.prefab
+    - Assets/UISetting/Modeling/Character/MoarTiger.prefab.meta
+    - Assets/UISetting/Modeling/Dress.meta
+    - Assets/UISetting/Modeling/Dress/Body.meta
+    - Assets/UISetting/Modeling/Dress/Body/Body_Abokado.mat
+    - Assets/UISetting/Modeling/Dress/Body/Body_Abokado.mat.meta
+    - Assets/UISetting/Modeling/Dress/Body/Body_Hood.mat
+    - Assets/UISetting/Modeling/Dress/Body/Body_Hood.mat.meta
+    - Assets/UISetting/Modeling/Dress/Body/Body_Takoyaki.mat
+    - Assets/UISetting/Modeling/Dress/Body/Body_Takoyaki.mat.meta
+    - Assets/UISetting/Modeling/Dress/Body/Body_Tiger.mat
+    - Assets/UISetting/Modeling/Dress/Body/Body_Tiger.mat.meta
+    - Assets/UISetting/Modeling/Dress/Head.meta
+    - Assets/UISetting/Modeling/Dress/Head/Head_Abokado.mat
+    - Assets/UISetting/Modeling/Dress/Head/Head_Abokado.mat.meta
+    - Assets/UISetting/Modeling/Dress/Head/Head_Hood.mat
+    - Assets/UISetting/Modeling/Dress/Head/Head_Hood.mat.meta
+    - Assets/UISetting/Modeling/Dress/Head/Head_Takoyaki.mat
+    - Assets/UISetting/Modeling/Dress/Head/Head_Takoyaki.mat.meta
+    - Assets/UISetting/Modeling/Dress/Head/Head_Tiger.mat
+    - Assets/UISetting/Modeling/Dress/Head/Head_Tiger.mat.meta
+    - Packages/manifest.json
+    - Packages/packages-lock.json
+    - ProjectSettings/EditorBuildSettings.asset
+    - ProjectSettings/ProjectSettings.asset
+    - ProjectSettings/ProjectVersion.txt
+    - ProjectSettings/TagManager.asset
+    - ProjectSettings/UnityConnectSettings.asset
+    - 
+    m_Values: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
